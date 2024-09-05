@@ -574,7 +574,7 @@ a.nav-link svg{
     }
     /* === ABOUT ===*/
     .about-data{
-        text-align: initial;
+        text-align: center;
     }
     .about-description{
         margin-bottom: var(--mb-5);
